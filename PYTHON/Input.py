@@ -1,4 +1,4 @@
-#print("\n")
+print("\n")
 num = int(input("Enter any number\n\n"))
 #print("\n")
 mod = num % 2
